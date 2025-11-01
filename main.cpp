@@ -5,6 +5,16 @@ int get_time_from_start(){
     return time(NULL) - time_of_start;
 }
 
+enum class Operation: char {fasta=0, fasta_q=1};
+
+struct sequence_unif{
+    int format;
+    std::vector<std::string> sequences;
+    std::vector<std::string> qual;
+    std::string titlevmk;
+
+};
+
 void log(std::string message, bool err){
     std::ofstream out;
     out.open("log.txt");
