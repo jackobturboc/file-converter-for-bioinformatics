@@ -2,8 +2,11 @@
 #define PROJECTFM_GLOBAL_CONST_HPP
 
 #include <fstream>
+#include <vector>
 #include <time.h>
+#include <string>
+#include <iostream>
 
-int time_of_start = time(NULL);
+long long TimeFromStart = time(NULL);
 
 #endif //PROJECTFM_GLOBAL_CONST_HPP

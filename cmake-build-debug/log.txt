@@ -1,1 +1,1 @@
-[ 1 ms ] all bad
+[ 1 ms ] all bad ERROR 
