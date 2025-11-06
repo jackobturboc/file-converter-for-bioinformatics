@@ -5,11 +5,22 @@ long long getTimeFromStart(){
     return time(NULL) - TimeFromStart;
 }
 
-std::string getadress(std::string adress){
+std::string getaddress(std::string adress){
     return "examples\\" + adress;
 };
 
-struct sequenceItem{
+void read(std::string fileAdress ){
+    std::string line;
+    std::ifstream in(fileAdress);
+    if (in.is_open()) {
+        while (std::getline(in, line)) {
+            std::cout << line << std::endl;
+        }
+    }
+    in.close();
+}
+
+struct SequenceItem{
     std::string tittle;
     std::string sequence;
     std::string comments;
@@ -23,25 +34,74 @@ struct sequenceItem{
     }
 };
 
-void fileFormatSearcher(std::string fileAdress){
+struct SequencesBox{
+    SequencesBox();
     AllSequencesFileFormatDescription type;
+    std::vector<SequenceItem> Sequences;
+    std::string format;
+    void fileFormatSearcher(std::string fileAddress);
+    void manager(std::string address);
+    void parser();
+};
+
+SequencesBox::SequencesBox(){
+    type.init();
+}
+
+void SequencesBox::fileFormatSearcher(std::string fileAddress){
     std::string line;
-    std::ifstream in(fileAdress);
+    std::ifstream in(fileAddress);
     if (in.is_open()) {
         std::getline(in, line);
 
-        std::cout << "FILE WAS OPEN" << "\n";
+//        std::cout << "FILE WAS OPEN" << "\n";
+
+        if ((line[0] == '>') and
+           ((line[3] == '|') or
+            (line[4] == '|')) ) {
+            format = "FASTA_NCBI_db_link";
+//            std::cout << "FASTA_NCBI_db_link" << "\n";
+        }
+
+        if ((line[0] == '>') and
+            ((line[line.size() - 1] == '|') or
+             (line[4] == '|')) ) {
+            format = "FASTA_NCBI_db_link";
+//            std::cout << "FASTA_NCBI_db_link" << "\n";
+        }
+
+        if ((line[0] == '>') and
+            ((line[line.size() - 1] == '|') or
+             (line[4] == '|')) ) {
+            format = "FASTA_NCBI_db_link";
+//            std::cout << "FASTA_NCBI_db_link" << "\n";
+        }
+
+        if ((line[0] == '>') and
+            ((65 <= line[0]) and (line[0] <= 90)) and
+            ((65 <= line[1]) and (line[1] <= 90)) and
+            ((48 <= line[1]) and (line[1] <= 57)) and
+            ((48 <= line[1]) and (line[1] <= 57)) and
+            ((48 <= line[1]) and (line[1] <= 57)) and
+            ((48 <= line[1]) and (line[1] <= 57)) and
+            ((48 <= line[1]) and (line[1] <= 57)) and
+            ((48 <= line[1]) and (line[1] <= 57))){
+            format = "NCBI_common";
+//            std::cout << "NCBI_common" << "\n";
+        }
 
         if (line[0] == '>'){
-            //FASTA CALL
-            std::cout << "FASTA" << "\n";
+            format = "FASTA_general";
+//            std::cout << "FASTA" << "\n";
         }
+
         if (line[0] == '@'){
             if (line[1] != '@'){
-                std::cout << "FASTAQ" << "\n";
+                format = "FASTAQ_sanger";
+//                std::cout << "FASTAQ_sanger" << "\n";
             }
             else {
-                std::cout << "MAYBE SAM" << "\n";
+//                std::cout << "MAYBE SAM" << "\n";
             }
         }
         if ((line[0] == 'L') and
@@ -49,14 +109,15 @@ void fileFormatSearcher(std::string fileAdress){
             (line[2] == 'C') and
             (line[3] == 'U') and
             (line[4] == 'S')    ) {
-            std::cout << "GENBANK" << "\n";
+            format = "FASTA_GenBank";
+//            std::cout << "GENBANK" << "\n";
         }
         if ((line[0] == 'Q') and
             (line[1] == 'u') and
             (line[2] == 'e') and
             (line[3] == 'r') and
             (line[4] == 'y')    ) {
-            std::cout << "BLAST" << "\n";
+//            std::cout << "BLAST" << "\n";
         }
 
         if ((line[0] == 'C') and
@@ -66,7 +127,7 @@ void fileFormatSearcher(std::string fileAdress){
             (line[4] == 'T') and
             (line[5] == 'A') and
             (line[6] == 'L') ) {
-            std::cout << "CLUSTAL" << "\n";
+//            std::cout << "CLUSTAL" << "\n";
         }
 
         if ((line[0] == '#') and
@@ -75,16 +136,16 @@ void fileFormatSearcher(std::string fileAdress){
             (line[3] == 'X') and
             (line[4] == 'U') and
             (line[5] == 'S') ) {
-            std::cout << "NEXUS" << "\n";
+//            std::cout << "NEXUS" << "\n";
         } else {
             if (line[0] == '#'){
-                std::cout << "Stockholm" << "\n";
+//                std::cout << "Stockholm" << "\n";
             }
         }
 
         if ((line[0] == '!') and
             (line[1] == '!') ) {
-            std::cout << "MSF" << "\n";
+//            std::cout << "MSF" << "\n";
         }
         bool flagout = true;
         std::vector<char> nums = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
@@ -102,10 +163,29 @@ void fileFormatSearcher(std::string fileAdress){
             }
         }
         if (flagout){
-            std::cout << "PHILIP" << "\n";
+//            std::cout << "PHILIP" << "\n";
+        }
+        if (format == ""){
+            format = "FASTA_bare";
         }
     }
     in.close();
+}
+
+void SequencesBox::manager(std::string address) {
+    fileFormatSearcher(getaddress(address));
+    std::cout << "is this: " << format << "Y/N" << "\n";
+    std::string s;
+    std::cin >> s;
+    if (s == "N"){
+        std::cin >> s;
+        format = s;
+    }
+    parser();
+}
+
+void SequencesBox::parser(){
+    std::string start = type.dlst[format].header_line_start;
 }
 
 void log(std::string message){
@@ -129,6 +209,7 @@ void logErr(std::string message){
 int main() {
 //    log("all good");
 //    logErr("all bad");
-    fileFormatSearcher(getadress("024_Stockholm_alignment.txt"));
+    SequencesBox n;
+    n.fileFormatSearcher(getaddress("003_ncbi_two_with_asterics.fasta "));
     return 0;
 }
