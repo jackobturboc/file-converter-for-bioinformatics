@@ -1,0 +1,21 @@
+#NEXUS
+[TITLE: Written by EMBOSS 02/11/25]
+
+begin data;
+dimensions ntax=3 nchar=64;
+format interleave datatype=DNA missing=N gap=-;
+
+matrix
+test1                ATGAGTCTCTCTGATAAGGACAAGGCTGCTGTGAAAGCCCTATGG-----
+test2                ------CTGTCTCCTGCCGACAAGACCAACGTCAAGGCCGCCTGGGGTAA
+test3                -------------------ACAAAAGCAACATCAAGGCTGCCTGGGGGAA
+
+test1                --------------
+test2                G-------------
+test3                GATTGGTGGCCATG
+;
+
+end;
+begin assumptions;
+options deftype=unord;
+end;

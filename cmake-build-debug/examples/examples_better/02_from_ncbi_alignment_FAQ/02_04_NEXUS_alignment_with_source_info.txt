@@ -1,0 +1,26 @@
+#NEXUS
+
+begin data;
+        dimensions  ntax=3 nchar=100;
+        format datatype=dna  missing=? gap=-  interleave ;
+        matrix
+
+[     1                                                   50]
+ABC_1 ???ATTGCGT TATGGAAATT CGAAACTGCC AAATACTATG TCACCATCAT
+ABC_2 GATATTGCTT TATGGAAATT CGAAACTGCC AAATACTATG TCACCATCAT
+ABC_3 ???ATTGCTT TATGGAAATT CGAAACTGCC AAATACTATG TTA-------
+
+[     51                                                 100]
+ABC_1 TGATGCACCT GGACACAGAG ATTTCATCAA GAACATGATC ACTGGTACTT
+ABC_2 TGATGCACCT GGACACAGAA ATTTCATCAA GAACATGATC ACTGGTACTT
+ABC_3 TGATGCACCT GGACACAGAG ATTTCATCAA AAACATGATC ACTGGTACTT
+;
+END;
+
+begin ncbi;
+sequin
+>[organism=Saccharomyces cerevisiae][strain=ABC][clone=1]
+>[organism=Saccharomyces cerevisiae][strain=ABC][clone=2]
+>[organism=Saccharomyces cerevisiae][strain=ABC][clone=3]
+;
+end;

@@ -1,0 +1,1 @@
+https://www.ebi.ac.uk/jdispatcher/msa/clustalo?stype=dna&outfmt=msf
