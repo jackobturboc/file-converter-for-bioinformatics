@@ -1,0 +1,14 @@
+# ninja log v6
+9	727	7918305867595175	projectFMQT_autogen/timestamp	a2ed8bda758aca6f
+9	727	7918305867595175	projectFMQT_autogen/mocs_compilation.cpp	a2ed8bda758aca6f
+9	727	7918305867595175	C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/timestamp	a2ed8bda758aca6f
+9	727	7918305867595175	C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/mocs_compilation.cpp	a2ed8bda758aca6f
+74	3531	7918305880421095	CMakeFiles/projectFMQT.dir/main.cpp.obj	6a9f53dff642ac10
+60	3561	7918305880278802	CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj	21b4a86d6a5d222
+90	3659	7918305880579641	CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj	b851fec2aeb953d8
+3660	4233	7918305916279538	projectFMQT.exe	47dd64cdd0e7ccfe
+58	391	7918306089716854	projectFMQT_autogen/timestamp	a2ed8bda758aca6f
+58	391	7918306089716854	projectFMQT_autogen/mocs_compilation.cpp	a2ed8bda758aca6f
+58	391	7918306089716854	C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/timestamp	a2ed8bda758aca6f
+58	391	7918306089716854	C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/mocs_compilation.cpp	a2ed8bda758aca6f
+394	3402	7918306093072855	CMakeFiles/projectFMQT.dir/main.cpp.obj	6a9f53dff642ac10

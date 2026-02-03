@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc libsrc.a CMakeFiles/src.dir/src_autogen/mocs_compilation.cpp.obj CMakeFiles/src.dir/qtgeneralwindows.cpp.obj CMakeFiles/src.dir/manager.cpp.obj CMakeFiles/src.dir/sequences_files_format_descriptions.cpp.obj CMakeFiles/src.dir/interface.cpp.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ranlib.exe libsrc.a

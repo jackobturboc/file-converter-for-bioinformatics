@@ -1,0 +1,10 @@
+C:/prolectFMQT/cmake-build-debug/CMakeFiles/projectFMQT.dir
+C:/prolectFMQT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/prolectFMQT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/prolectFMQT/cmake-build-debug/CMakeFiles/projectFMQT_autogen_timestamp_deps.dir
+C:/prolectFMQT/cmake-build-debug/CMakeFiles/projectFMQT_autogen.dir
+C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/src.dir
+C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/src_autogen_timestamp_deps.dir
+C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/src_autogen.dir
