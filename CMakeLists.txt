@@ -20,18 +20,19 @@ find_package(Qt5 COMPONENTS
 message(STATUS "TEST STRING   " ${CMAKE_SOURCE_DIR})
 
 include_directories(${Qt5Widgets_INCLUDE_DIRS})
-include_directories("${CMAKE_SOURCE_DIR}/src")
-add_subdirectory(src)
+include_directories("${CMAKE_SOURCE_DIR}/sourceFiles")
+add_subdirectory(sourceFiles)
 
 add_executable(projectFMQT main.cpp
-    src/qtgeneralwindows.cpp
+        sourceFiles/qtgeneralwindows.cpp
 )
 
 target_link_libraries(projectFMQT
         PRIVATE
-    Qt5::Core
-    Qt5::Gui
-    Qt5::Widgets
+        Qt5::Core
+        Qt5::Gui
+        Qt5::Widgets
+        MainLib
 )
 
 if (WIN32)

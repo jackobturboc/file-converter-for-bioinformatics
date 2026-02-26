@@ -5,6 +5,7 @@
 #include "reader.hpp"
 
 void SequenceReader::parser(SequencesBox & list) {
+
     if (list.format == "FASTA_general" || list.format == "FASTA_NCBI_db_link") {
         std::string line;
         int fileNumber = 0;
@@ -23,6 +24,47 @@ void SequenceReader::parser(SequencesBox & list) {
                 exmp.sequence += line;
             }
             list.sequences.push_back(exmp);
+        }
+        in.close();
+    }
+    if (list.format == "FASTAQ_sanger") {
+        std::string line;
+        int fileNumber = 0;
+        int lenLine = 0;
+        std::ifstream in(prop.pathToInp);
+        SequenceItem exmp;
+        int phase = 0;
+        std::string into;
+        if (in.is_open()) {
+            while (getline(in, line)) {
+                if  (line.empty()){
+                    return;
+                }
+                switch (phase) {
+                    case 0:
+                        list.sequences.push_back(exmp);
+                        list.sequences[fileNumber].title += line.substr(1, line.size());\
+                        phase = 1;
+                        break;
+                    case 1:
+                        if (line[0] == '+') {
+                            list.sequences[fileNumber].title_quality += line.substr(1, line.size());
+                            phase = 2;
+                            break;
+                        }
+                        lenLine += 1;
+                        list.sequences[fileNumber].sequence  += line.substr(0, line.size());
+                        break;
+                    case 2:
+                        lenLine--;
+                        list.sequences[fileNumber].quality += line.substr(0, line.size());
+                        if (!lenLine) {
+                            fileNumber++;
+                            phase = 0;
+                        }
+                        break;
+                }
+            }
         }
         in.close();
     }

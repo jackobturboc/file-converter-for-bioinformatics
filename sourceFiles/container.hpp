@@ -51,7 +51,7 @@ struct SequencesBox{
     AllSequencesFileFormatDescription type;
     std::string format;
     std::vector<SequenceItem> sequences;
-    void show(bool tit, bool seq, bool com, bool qua);
+    std::string show(bool tit, bool seq, bool com, bool qua, bool isOut);
 };
 
 struct PairBox{

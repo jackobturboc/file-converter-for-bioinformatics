@@ -5,6 +5,7 @@
 #include "writer.hpp"
 
 std::string SequenceWriter::writer(const std::string& format, SequencesBox sList, int idx) {
+
     std::string out;
     list = sList;
 
@@ -21,19 +22,23 @@ std::string SequenceWriter::writer(const std::string& format, SequencesBox sList
             if (i % prop.lenghtOfLine == 0 && i) {out += "\n";}
             out += list.sequences[idx].sequence[i];
         }
+
         out += "\n\n";
     }
+
     if (format == "FASTA_bare") {
+
         for (int i = 0; i < list.sequences[idx].sequence.size(); ++i) {
             if (i % prop.lenghtOfLine == 0 && i) {out += "\n";}
             out += list.sequences[idx].sequence[i];
         }
         out += "\n\n";
     }
-    if (format == "FASTA_GENBANK") {
+    if (format == "FASTA_GenBank") {
         out += "LOCUS       ";
         out += list.sequences[0].title;
         if (!list.sequences[0].titles.empty()){
+
             for (auto s: list.sequences[0].titles){
                 out += s;
             }
@@ -41,6 +46,7 @@ std::string SequenceWriter::writer(const std::string& format, SequencesBox sList
         out += "ORIGIN\n";
         out += "\n\n";
     }
+
     return out;
 }
 

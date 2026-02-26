@@ -4,7 +4,6 @@
 
 #ifndef PROJECTFM_READER_HPP
 
-#include "sequences_files_format_descriptions.h"
 #include "global_const.hpp"
 #include "container.hpp"
 
@@ -21,7 +20,7 @@ struct PairReader{
 };
 
 struct MSAReader{
-    Properties prop;
+    Properties  prop;
     void parser(MSABox & list);
 };
 

@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/prolectFMQT/cmake-build-debug/src/cmake_install.cmake")
+  include("C:/prolectFMQT/cmake-build-debug/sourceFiles/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

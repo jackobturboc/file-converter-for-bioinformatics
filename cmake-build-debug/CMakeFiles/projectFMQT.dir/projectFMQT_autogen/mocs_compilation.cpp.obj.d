@@ -1,6 +1,6 @@
 CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj: \
  C:\prolectFMQT\cmake-build-debug\projectFMQT_autogen\mocs_compilation.cpp \
- C:\prolectFMQT\cmake-build-debug\projectFMQT_autogen\UVLADIE3JM/moc_qtgeneralwindows.cpp \
+ C:\prolectFMQT\cmake-build-debug\projectFMQT_autogen\DINOCZ6TP5/moc_qtgeneralwindows.cpp \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -104,8 +104,9 @@ CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
- C:/prolectFMQT/src/qtgeneralwindows.h C:/prolectFMQT/src/manager.hpp \
- C:/prolectFMQT/src/sequences_files_format_descriptions.h \
+ C:/prolectFMQT/sourceFiles/qtgeneralwindows.h \
+ C:/prolectFMQT/sourceFiles/manager.hpp \
+ C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
@@ -142,7 +143,7 @@ CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
- C:/prolectFMQT/src/global_const.hpp \
+ C:/prolectFMQT/sourceFiles/global_const.hpp \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
@@ -346,6 +347,35 @@ CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj: \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qgridlayout.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QVBoxLayout \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QPlainTextEdit \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qplaintextedit.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtextedit.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qabstractscrollarea.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qtextdocument.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qurl.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qabstracttextdocumentlayout.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qtextlayout.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qevent.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qcoreevent.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qset.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qfile.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qfiledevice.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qvector2d.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qtouchdevice.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qglyphrun.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qrawfont.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qfontdatabase.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QFileDialog \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qfiledialog.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qdir.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qfileinfo.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qdialog.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
- C:/prolectFMQT/src/container.hpp C:/prolectFMQT/src/reader.hpp \
- C:/prolectFMQT/src/writer.hpp
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
+ C:/prolectFMQT/sourceFiles/container.hpp \
+ C:/prolectFMQT/sourceFiles/reader.hpp \
+ C:/prolectFMQT/sourceFiles/writer.hpp

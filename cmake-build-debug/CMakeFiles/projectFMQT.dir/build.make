@@ -98,35 +98,36 @@ CMakeFiles/projectFMQT.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/projectFMQT.dir/main.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\main.cpp -o CMakeFiles\projectFMQT.dir\main.cpp.s
 
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/flags.make
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/includes_CXX.rsp
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj: C:/prolectFMQT/src/qtgeneralwindows.cpp
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj -MF CMakeFiles\projectFMQT.dir\src\qtgeneralwindows.cpp.obj.d -o CMakeFiles\projectFMQT.dir\src\qtgeneralwindows.cpp.obj -c C:\prolectFMQT\src\qtgeneralwindows.cpp
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/flags.make
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/includes_CXX.rsp
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj: C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj: CMakeFiles/projectFMQT.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj -MF CMakeFiles\projectFMQT.dir\sourceFiles\qtgeneralwindows.cpp.obj.d -o CMakeFiles\projectFMQT.dir\sourceFiles\qtgeneralwindows.cpp.obj -c C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp
 
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\src\qtgeneralwindows.cpp > CMakeFiles\projectFMQT.dir\src\qtgeneralwindows.cpp.i
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp > CMakeFiles\projectFMQT.dir\sourceFiles\qtgeneralwindows.cpp.i
 
-CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\src\qtgeneralwindows.cpp -o CMakeFiles\projectFMQT.dir\src\qtgeneralwindows.cpp.s
+CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp -o CMakeFiles\projectFMQT.dir\sourceFiles\qtgeneralwindows.cpp.s
 
 # Object files for target projectFMQT
 projectFMQT_OBJECTS = \
 "CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/projectFMQT.dir/main.cpp.obj" \
-"CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj"
+"CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj"
 
 # External object files for target projectFMQT
 projectFMQT_EXTERNAL_OBJECTS =
 
 projectFMQT.exe: CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj
 projectFMQT.exe: CMakeFiles/projectFMQT.dir/main.cpp.obj
-projectFMQT.exe: CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj
+projectFMQT.exe: CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj
 projectFMQT.exe: CMakeFiles/projectFMQT.dir/build.make
 projectFMQT.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Widgets.a
+projectFMQT.exe: sourceFiles/libMainLib.a
 projectFMQT.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Gui.a
 projectFMQT.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Core.a
 projectFMQT.exe: CMakeFiles/projectFMQT.dir/linkLibs.rsp

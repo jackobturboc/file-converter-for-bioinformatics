@@ -1,6 +1,8 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
+// рудимент
+
 #include <QWidget>
 
 QT_BEGIN_NAMESPACE

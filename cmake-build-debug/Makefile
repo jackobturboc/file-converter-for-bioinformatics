@@ -155,43 +155,82 @@ projectFMQT_autogen/fast:
 .PHONY : projectFMQT_autogen/fast
 
 #=============================================================================
-# Target rules for targets named src
+# Target rules for targets named sourceFiles
 
 # Build rule for target.
-src: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src
-.PHONY : src
+sourceFiles: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles
+.PHONY : sourceFiles
 
 # fast build rule for target.
-src/fast:
-	$(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/build
-.PHONY : src/fast
+sourceFiles/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/build
+.PHONY : sourceFiles/fast
 
 #=============================================================================
-# Target rules for targets named src_autogen_timestamp_deps
+# Target rules for targets named MainLib
 
 # Build rule for target.
-src_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src_autogen_timestamp_deps
-.PHONY : src_autogen_timestamp_deps
+MainLib: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MainLib
+.PHONY : MainLib
 
 # fast build rule for target.
-src_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f src\CMakeFiles\src_autogen_timestamp_deps.dir\build.make src/CMakeFiles/src_autogen_timestamp_deps.dir/build
-.PHONY : src_autogen_timestamp_deps/fast
+MainLib/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/build
+.PHONY : MainLib/fast
 
 #=============================================================================
-# Target rules for targets named src_autogen
+# Target rules for targets named sourceFiles_autogen_timestamp_deps
 
 # Build rule for target.
-src_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src_autogen
-.PHONY : src_autogen
+sourceFiles_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles_autogen_timestamp_deps
+.PHONY : sourceFiles_autogen_timestamp_deps
 
 # fast build rule for target.
-src_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f src\CMakeFiles\src_autogen.dir\build.make src/CMakeFiles/src_autogen.dir/build
-.PHONY : src_autogen/fast
+sourceFiles_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\build.make sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/build
+.PHONY : sourceFiles_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named sourceFiles_autogen
+
+# Build rule for target.
+sourceFiles_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles_autogen
+.PHONY : sourceFiles_autogen
+
+# fast build rule for target.
+sourceFiles_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles_autogen.dir\build.make sourceFiles/CMakeFiles/sourceFiles_autogen.dir/build
+.PHONY : sourceFiles_autogen/fast
+
+#=============================================================================
+# Target rules for targets named MainLib_autogen_timestamp_deps
+
+# Build rule for target.
+MainLib_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MainLib_autogen_timestamp_deps
+.PHONY : MainLib_autogen_timestamp_deps
+
+# fast build rule for target.
+MainLib_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen_timestamp_deps.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/build
+.PHONY : MainLib_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named MainLib_autogen
+
+# Build rule for target.
+MainLib_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MainLib_autogen
+.PHONY : MainLib_autogen
+
+# fast build rule for target.
+MainLib_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen.dir/build
+.PHONY : MainLib_autogen/fast
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -241,29 +280,29 @@ projectFMQT_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.s
 .PHONY : projectFMQT_autogen/mocs_compilation.cpp.s
 
-src/qtgeneralwindows.obj: src/qtgeneralwindows.cpp.obj
-.PHONY : src/qtgeneralwindows.obj
+sourceFiles/qtgeneralwindows.obj: sourceFiles/qtgeneralwindows.cpp.obj
+.PHONY : sourceFiles/qtgeneralwindows.obj
 
 # target to build an object file
-src/qtgeneralwindows.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.obj
-.PHONY : src/qtgeneralwindows.cpp.obj
+sourceFiles/qtgeneralwindows.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj
+.PHONY : sourceFiles/qtgeneralwindows.cpp.obj
 
-src/qtgeneralwindows.i: src/qtgeneralwindows.cpp.i
-.PHONY : src/qtgeneralwindows.i
+sourceFiles/qtgeneralwindows.i: sourceFiles/qtgeneralwindows.cpp.i
+.PHONY : sourceFiles/qtgeneralwindows.i
 
 # target to preprocess a source file
-src/qtgeneralwindows.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.i
-.PHONY : src/qtgeneralwindows.cpp.i
+sourceFiles/qtgeneralwindows.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.i
+.PHONY : sourceFiles/qtgeneralwindows.cpp.i
 
-src/qtgeneralwindows.s: src/qtgeneralwindows.cpp.s
-.PHONY : src/qtgeneralwindows.s
+sourceFiles/qtgeneralwindows.s: sourceFiles/qtgeneralwindows.cpp.s
+.PHONY : sourceFiles/qtgeneralwindows.s
 
 # target to generate assembly for a file
-src/qtgeneralwindows.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/src/qtgeneralwindows.cpp.s
-.PHONY : src/qtgeneralwindows.cpp.s
+sourceFiles/qtgeneralwindows.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projectFMQT.dir\build.make CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.s
+.PHONY : sourceFiles/qtgeneralwindows.cpp.s
 
 # Help Target
 help:
@@ -273,21 +312,24 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... MainLib_autogen
+	@echo ... MainLib_autogen_timestamp_deps
 	@echo ... projectFMQT_autogen
 	@echo ... projectFMQT_autogen_timestamp_deps
-	@echo ... src_autogen
-	@echo ... src_autogen_timestamp_deps
+	@echo ... sourceFiles_autogen
+	@echo ... sourceFiles_autogen_timestamp_deps
+	@echo ... MainLib
 	@echo ... projectFMQT
-	@echo ... src
+	@echo ... sourceFiles
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
 	@echo ... projectFMQT_autogen/mocs_compilation.obj
 	@echo ... projectFMQT_autogen/mocs_compilation.i
 	@echo ... projectFMQT_autogen/mocs_compilation.s
-	@echo ... src/qtgeneralwindows.obj
-	@echo ... src/qtgeneralwindows.i
-	@echo ... src/qtgeneralwindows.s
+	@echo ... sourceFiles/qtgeneralwindows.obj
+	@echo ... sourceFiles/qtgeneralwindows.i
+	@echo ... sourceFiles/qtgeneralwindows.s
 .PHONY : help
 
 

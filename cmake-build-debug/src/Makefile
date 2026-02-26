@@ -157,6 +157,30 @@ src_autogen/fast:
 	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src_autogen.dir\build.make src/CMakeFiles/src_autogen.dir/build
 .PHONY : src_autogen/fast
 
+container.obj: container.cpp.obj
+.PHONY : container.obj
+
+# target to build an object file
+container.cpp.obj:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/container.cpp.obj
+.PHONY : container.cpp.obj
+
+container.i: container.cpp.i
+.PHONY : container.i
+
+# target to preprocess a source file
+container.cpp.i:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/container.cpp.i
+.PHONY : container.cpp.i
+
+container.s: container.cpp.s
+.PHONY : container.s
+
+# target to generate assembly for a file
+container.cpp.s:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/container.cpp.s
+.PHONY : container.cpp.s
+
 interface.obj: interface.cpp.obj
 .PHONY : interface.obj
 
@@ -229,6 +253,30 @@ qtgeneralwindows.cpp.s:
 	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/qtgeneralwindows.cpp.s
 .PHONY : qtgeneralwindows.cpp.s
 
+reader.obj: reader.cpp.obj
+.PHONY : reader.obj
+
+# target to build an object file
+reader.cpp.obj:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/reader.cpp.obj
+.PHONY : reader.cpp.obj
+
+reader.i: reader.cpp.i
+.PHONY : reader.i
+
+# target to preprocess a source file
+reader.cpp.i:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/reader.cpp.i
+.PHONY : reader.cpp.i
+
+reader.s: reader.cpp.s
+.PHONY : reader.s
+
+# target to generate assembly for a file
+reader.cpp.s:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/reader.cpp.s
+.PHONY : reader.cpp.s
+
 sequences_files_format_descriptions.obj: sequences_files_format_descriptions.cpp.obj
 .PHONY : sequences_files_format_descriptions.obj
 
@@ -277,6 +325,54 @@ src_autogen/mocs_compilation.cpp.s:
 	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/src_autogen/mocs_compilation.cpp.s
 .PHONY : src_autogen/mocs_compilation.cpp.s
 
+widget.obj: widget.cpp.obj
+.PHONY : widget.obj
+
+# target to build an object file
+widget.cpp.obj:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/widget.cpp.obj
+.PHONY : widget.cpp.obj
+
+widget.i: widget.cpp.i
+.PHONY : widget.i
+
+# target to preprocess a source file
+widget.cpp.i:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/widget.cpp.i
+.PHONY : widget.cpp.i
+
+widget.s: widget.cpp.s
+.PHONY : widget.s
+
+# target to generate assembly for a file
+widget.cpp.s:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/widget.cpp.s
+.PHONY : widget.cpp.s
+
+writer.obj: writer.cpp.obj
+.PHONY : writer.obj
+
+# target to build an object file
+writer.cpp.obj:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/writer.cpp.obj
+.PHONY : writer.cpp.obj
+
+writer.i: writer.cpp.i
+.PHONY : writer.i
+
+# target to preprocess a source file
+writer.cpp.i:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/writer.cpp.i
+.PHONY : writer.cpp.i
+
+writer.s: writer.cpp.s
+.PHONY : writer.s
+
+# target to generate assembly for a file
+writer.cpp.s:
+	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/writer.cpp.s
+.PHONY : writer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -288,6 +384,9 @@ help:
 	@echo ... src_autogen
 	@echo ... src_autogen_timestamp_deps
 	@echo ... src
+	@echo ... container.obj
+	@echo ... container.i
+	@echo ... container.s
 	@echo ... interface.obj
 	@echo ... interface.i
 	@echo ... interface.s
@@ -297,12 +396,21 @@ help:
 	@echo ... qtgeneralwindows.obj
 	@echo ... qtgeneralwindows.i
 	@echo ... qtgeneralwindows.s
+	@echo ... reader.obj
+	@echo ... reader.i
+	@echo ... reader.s
 	@echo ... sequences_files_format_descriptions.obj
 	@echo ... sequences_files_format_descriptions.i
 	@echo ... sequences_files_format_descriptions.s
 	@echo ... src_autogen/mocs_compilation.obj
 	@echo ... src_autogen/mocs_compilation.i
 	@echo ... src_autogen/mocs_compilation.s
+	@echo ... widget.obj
+	@echo ... widget.i
+	@echo ... widget.s
+	@echo ... writer.obj
+	@echo ... writer.i
+	@echo ... writer.s
 .PHONY : help
 
 

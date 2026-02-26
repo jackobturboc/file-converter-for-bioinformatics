@@ -13,6 +13,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/prolectFMQT/src/container.hpp",
+			"MU",
+			"EWIEGA46WW/moc_container.cpp",
+			null
+		],
+		[
 			"C:/prolectFMQT/src/interface.hpp",
 			"MU",
 			"EWIEGA46WW/moc_interface.cpp",
@@ -31,9 +37,27 @@
 			null
 		],
 		[
+			"C:/prolectFMQT/src/reader.hpp",
+			"MU",
+			"EWIEGA46WW/moc_reader.cpp",
+			null
+		],
+		[
 			"C:/prolectFMQT/src/sequences_files_format_descriptions.h",
 			"MU",
 			"EWIEGA46WW/moc_sequences_files_format_descriptions.cpp",
+			null
+		],
+		[
+			"C:/prolectFMQT/src/widget.h",
+			"MU",
+			"EWIEGA46WW/moc_widget.cpp",
+			null
+		],
+		[
+			"C:/prolectFMQT/src/writer.hpp",
+			"MU",
+			"EWIEGA46WW/moc_writer.cpp",
 			null
 		]
 	],
@@ -90,14 +114,18 @@
 	"SETTINGS_FILE" : "C:/prolectFMQT/cmake-build-debug/src/CMakeFiles/src_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "C:/prolectFMQT/src/container.cpp", "MU", null ],
 		[ "C:/prolectFMQT/src/interface.cpp", "MU", null ],
 		[ "C:/prolectFMQT/src/manager.cpp", "MU", null ],
 		[ "C:/prolectFMQT/src/qtgeneralwindows.cpp", "MU", null ],
+		[ "C:/prolectFMQT/src/reader.cpp", "MU", null ],
 		[
 			"C:/prolectFMQT/src/sequences_files_format_descriptions.cpp",
 			"MU",
 			null
-		]
+		],
+		[ "C:/prolectFMQT/src/widget.cpp", "MU", null ],
+		[ "C:/prolectFMQT/src/writer.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
