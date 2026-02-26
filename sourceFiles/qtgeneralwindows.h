@@ -36,8 +36,8 @@ public:
     QPushButton * saveSet;
     void initalize();
 public slots:
-    void saveAll();
-    void showIt();
+//    void saveAll();
+//    void showIt();
 };
 
 class qtExportWindow:public QObject {

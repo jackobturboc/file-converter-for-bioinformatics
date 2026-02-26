@@ -375,5 +375,5 @@ C:/prolectFMQT/sourceFiles/qtgeneralwindows.h
  mdp:C:/prolectFMQT/sourceFiles/reader.hpp
  mdp:C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.h
  mdp:C:/prolectFMQT/sourceFiles/writer.hpp
-C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp
 C:/prolectFMQT/main.cpp
+C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp
