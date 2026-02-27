@@ -174,7 +174,7 @@ void qtExportWindow::initalize() {
     selectPath = new QPushButton;
     selectName = new QPlainTextEdit;
     selectPath->setText("имя файла");
-    settings = new QPushButton;
+    settings = new QPushButton("настройки");
     // TODO Дописать лайнэдиты
     clearMemoryRecord = new QPushButton;
     clearMemoryRecord->setText("Очистка памяти");
