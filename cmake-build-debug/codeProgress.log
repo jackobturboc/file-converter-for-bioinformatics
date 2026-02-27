@@ -1,0 +1,4065 @@
+This is log from https://github.com/jackobturboc/file-converter-for-bioinformatics
+RUN: Start
+ERROR: Invalid satisfaction index
+
+RUN: Start
+ERROR: Invalid satisfaction index
+
+RUN: Start
+RUN: Start
+RUN: Start
+RUN: Start
+RUN: Start
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: Finish file is saved 
+
+RUN: Start
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+Code was started
+
+RUN: detector start
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start file saving 
+
+RUN: Finish file is saved 
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start file saving 
+
+RUN: Finish file is saved 
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: detector start
+
+RUN: Start
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+RUN: Start
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Invalid satisfaction index
+
+RUN: Start
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: All good.
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+Code was started
+
+Code was started
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+Code was started
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Unknown error, unable to determine SEQ/PAIR/MSA.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Invalid satisfaction index
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start memory clearing 
+
+RUN: Finish memory is cleared 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+ERROR: Unable to change title in FASTA_bare.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+ERROR: Unable to change title in FASTA_bare.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+ERROR: Unable to change title in FASTA_bare.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+ERROR: Unable to change title in FASTA_bare.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+ERROR: The file cannot be opened for writing. Check if it is open by another program.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+ERROR: Unrecognized type, try specifying the type manually.
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: The title is not set, when translating "FASTA_bare" you must set a title.
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: The title is not set, when translating "FASTA_bare" you must set a title.
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: path to out select
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: path to out select
+Code was started
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: path to out select
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+RUN: path to out select
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: path to out select
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+ERROR: Unable to change title in FASTA_bare.
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+

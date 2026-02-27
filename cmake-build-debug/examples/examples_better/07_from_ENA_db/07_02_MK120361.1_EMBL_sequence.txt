@@ -1,0 +1,64 @@
+ID   MK120361; SV 1; linear; genomic DNA; STD; FUN; 539 BP.
+XX
+AC   MK120361;
+XX
+DT   02-AUG-2019 (Rel. 141, Created)
+DT   02-AUG-2019 (Rel. 141, Last updated, Version 1)
+XX
+DE   Calonectria ilicicola strain GCG beta-tubulin gene, partial cds.
+XX
+KW   .
+XX
+OS   Calonectria ilicicola
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes;
+OC   Hypocreomycetidae; Hypocreales; Nectriaceae; Calonectria.
+XX
+RN   [1]
+RP   1-539
+RA   Zhang Y., Li N.;
+RT   "Pathogen Identification and Fungicide-screening of the Peanut Black Rot";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-539
+RA   Zhang Y., Li N.;
+RT   ;
+RL   Submitted (31-OCT-2018) to the INSDC.
+RL   Department of Plant Protection, Zhongkai University of Agriculture and
+RL   Engineering, 24 Dongsha, Guangzhou, Guangdong 510225, China
+XX
+DR   MD5; 998af176e1f424b1c4f82e37635c7680.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..539
+FT                   /organism="Calonectria ilicicola"
+FT                   /host="peanut"
+FT                   /strain="GCG"
+FT                   /mol_type="genomic DNA"
+FT                   /country="China"
+FT                   /lat_lon="24.21 N 114.05 E"
+FT                   /collected_by="Yunxia Zhang"
+FT                   /collection_date="23-May-2017"
+FT                   /db_xref="taxon:182845"
+FT   mRNA            join(<200..223,284..406,471..>539)
+FT                   /product="beta-tubulin"
+FT   CDS             join(<200..223,284..406,471..>539)
+FT                   /codon_start=1
+FT                   /product="beta-tubulin"
+FT                   /note="tub2"
+FT                   /protein_id="AYU71030.1"
+FT                   /translation="VHLQTGQCGNQIGAAFWQTISGEHGLDSNGVYNGTSDLQLERMNV
+FT                   YFNEASGNKYVPRAVLVDLEPGTMDAS"
+XX
+SQ   Sequence 539 BP; 122 A; 162 C; 128 G; 127 T; 0 other;
+     gcgtagattg taagttttcc tgccctcgca cggcatcatg cccagagctc ttgagagacg        60
+     cgtgcctttg ttgctgcccc tgagcgtacc ccgccgcccc ggtttcgacc gcttcgacag       120
+     caacaaagct cgacgacccc aagcacgatg tgatatcgga ggacaaggtt gctgactatt       180
+     atttctttct caattctagg tccacctcca gaccggtcag tgcgtaagtg atcattccag       240
+     cttccaaaaa ctgccctggg gattcactaa cattcgcgat cagggtaacc aaattggtgc       300
+     tgctttctgg cagaccatct ctggcgagca cggcctcgac agcaatggtg tctacaacgg       360
+     tacctccgac ctccagttgg agcgcatgaa cgtctacttc aacgaggtat gtggttaaaa       420
+     taaaacgctc gcctggtcga aaaacttgtg cacaaactca cacgatacag gcttccggca       480
+     acaagtatgt ccctcgcgct gtcctcgtcg atcttgagcc cggtaccatg gatgcctcc        539
+//

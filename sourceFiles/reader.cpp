@@ -6,7 +6,7 @@
 
 void SequenceReader::parser(SequencesBox & list) {
 
-    if (list.format == "FASTA_general" || list.format == "FASTA_NCBI_db_link") {
+        if (list.format == "FASTA_general" || list.format == "FASTA_NCBI_db_link") {
         std::string line;
         int fileNumber = 0;
         std::ifstream in(prop.pathToInp);

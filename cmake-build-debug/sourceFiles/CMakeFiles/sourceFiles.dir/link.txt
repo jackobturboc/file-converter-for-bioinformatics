@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc libsourceFiles.a CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj CMakeFiles/sourceFiles.dir/manager.cpp.obj CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj CMakeFiles/sourceFiles.dir/interface.cpp.obj CMakeFiles/sourceFiles.dir/container.cpp.obj CMakeFiles/sourceFiles.dir/reader.cpp.obj CMakeFiles/sourceFiles.dir/writer.cpp.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ranlib.exe libsourceFiles.a

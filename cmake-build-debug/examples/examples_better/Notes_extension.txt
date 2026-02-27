@@ -1,0 +1,27 @@
+link: https://www.jalview.org/help/html/io/fileformats.html
+
+Format	       Unique File Feature	        File Extension
+FASTA	       >SequenceName                .fa, .fasta   
+               THISISASEQUENCE         
+MSF	           !! AA_MULTIPLE_ALIGNMENT 1.0 .msf
+                         ..
+						 //            
+CLUSTALW	   CLUSTAL	                     .aln
+PILEUP	       PileUp	                     
+PIR	           >P1;	                         .pir
+BLC	           >Seq1                         .blc
+               >Seq2	
+PFAM	       SequenceName THISISASEQUENCE	 .pfam
+Stockholm	   # STOCKHOLM VersionNumber     .stk, .sto
+               ...
+               //	
+Phylip	       Line starts with two numbers separated by white space   .phy
+               ...
+               //	
+EMBL	       Line starts with ID, followed by a space, and is followed by a              7 character identifier terminated with a semicolon.	         .txt
+GenBank	       Line starts with LOCUS	                                .gb,.gbk
+JSON	       Data starts with '{'
+               Data ends with '}'
+
+See BioJSON for more infomation about the Jalview JSON format
+.json

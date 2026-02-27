@@ -1,0 +1,49 @@
+########################################
+# Program: needle
+# Rundate: Sun  2 Nov 2025 21:24:53
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20251102-212449-0376-58907232-p1m.asequence
+#    -bsequence emboss_needle-I20251102-212449-0376-58907232-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: test1
+# 2: test2
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 59
+# Identity:      24/59 (40.7%)
+# Similarity:    24/59 (40.7%)
+# Gaps:          28/59 (47.5%)
+# Score: 56.5
+# 
+#
+#=======================================
+
+test1              1 ATGAGTCTCTCT------GATAAG------GACAAGGCTGC--TGTGAAA     36
+                           ||.|||      ||.|||      |.||||||.||  .|.|.||
+test2              1 ------CTGTCTCCTGCCGACAAGACCAACGTCAAGGCCGCCTGGGGTAA     44
+
+test1             37 GCCCTATGG     45
+                     |        
+test2             45 G--------     45
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,75 @@
+ID   KAI6050750; SV 1; linear; genomic DNA; CON; ROD; 543 BP.
+XX
+PA   MU601413.1
+XX
+PR   Project:PRJNA826499;
+XX
+DE   Marmota monax (woodchuck) GCG
+XX
+KW   WGS.
+XX
+OS   Marmota monax (woodchuck)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Sciuromorpha; Sciuridae;
+OC   Xerinae; Marmotini; Marmota.
+XX
+RN   [1]
+RA   Lok S., Lau T., Trost B., Liu L., Mcgilvray I., Bader G., Michalak T.,
+RA   Macparland S.;
+RT   "Generation of a high-quality woodchuck genome assembly to identify tumor
+RT   progression in the woodchuck model of hepatocellular carcinoma";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Macparland S.A., Lok S., Bader G.D., Mcgilvray I.D., Michalak T.I.;
+RT   ;
+RL   Submitted (25-MAY-2022) to the INSDC.
+RL   The Centre for Applied Genomics, The Hospital for Sick Children, 686 Bay
+RL   Street, Toronto, Ontario M5G 0A4, Canada
+XX
+DR   MD5; 974af35608a33bc847c4aa342e21ef63.
+DR   BioSample; SAMN21332666.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..543
+FT                   /organism="Marmota monax"
+FT                   /chromosome="Unknown"
+FT                   /isolate="L192"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Canada"
+FT                   /lat_lon="51.43 N 57.06 W"
+FT                   /isolation_source="Labrador"
+FT                   /collected_by="Thomas Michalak"
+FT                   /collection_date="2018-08-03"
+FT                   /sex="male"
+FT                   /tissue_type="PBMC"
+FT                   /db_xref="taxon:9995"
+FT                   /submitter_seqid="WCK01_AAM20220418_F8-rsc00154"
+FT   CDS             complement(join(MU601413.1:43619949..43619955,
+FT                   MU601413.1:43620607..43620750,
+FT                   MU601413.1:43622060..43622197,
+FT                   MU601413.1:43623875..43624036,
+FT                   MU601413.1:43625569..43625660))
+FT                   /codon_start=1
+FT                   /gene="GCG"
+FT                   /locus_tag="MXE34_0003894sp01"
+FT                   /product="GCG"
+FT                   /protein_id="KAI6050750.1"
+FT                   /translation="MKNIYFVAGLFMMLVQGSWQRSLQDTEEKTRSFPASQTDPLNDPD
+FT                   QMNEDKRHSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNRNNIAKRHDEFERHAEGTFT
+FT                   SDVSSYLEGQAAKEFIAWLVKGRERRDFPEEVTIVEELRRRHADGSFSDEMNTVLDNLA
+FT                   TRDFINWLIQTKITDRK"
+XX
+SQ   Sequence 543 BP; 168 A; 124 C; 133 G; 118 T; 0 other;
+     atgaagaaca tttactttgt ggccggattg tttatgatgc tggtgcaagg aagctggcaa        60
+     cgatcccttc aagacacaga ggagaaaacc agatccttcc cggcttcaca gacagaccct       120
+     ctgaatgatc ctgaccagat gaatgaagac aagcgtcatt cgcagggcac attcaccagt       180
+     gactacagca agtacctaga ctccaggcgt gcccaggact ttgtgcagtg gctgatgaat       240
+     accaagagaa acaggaataa cattgccaaa cgtcatgatg aatttgagag acatgctgaa       300
+     ggaaccttta ccagtgatgt aagttcttac ttggaaggtc aagctgccaa ggaattcatt       360
+     gcttggctgg tgaaaggccg agaaaggcga gatttcccag aagaagttac catcgttgaa       420
+     gaactccgcc gcagacacgc ggatggctct ttctcagatg agatgaacac agtgcttgat       480
+     aaccttgcca ccagggactt catcaactgg ctgattcaga ccaaaatcac tgacaggaaa       540
+     taa                                                                     543
+//

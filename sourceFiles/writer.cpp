@@ -4,6 +4,14 @@
 
 #include "writer.hpp"
 
+std::string spaceWalker(int n) {
+
+    std::string s;
+    s += std::to_string(n);
+    for (int i = 0; i < 10 - s.size(); ++i) { s += " "; }
+    return s;
+}
+
 std::string SequenceWriter::writer(const std::string& format, SequencesBox sList, int idx) {
 
     std::string out;
@@ -35,16 +43,26 @@ std::string SequenceWriter::writer(const std::string& format, SequencesBox sList
         out += "\n\n";
     }
     if (format == "FASTA_GenBank") {
+        if (prop.indOfSeqWhYNd == -1) {
+            prop.indOfSeqWhYNd = 0;
+        }
         out += "LOCUS       ";
-        out += list.sequences[0].title;
-        if (!list.sequences[0].titles.empty()){
-
-            for (auto s: list.sequences[0].titles){
+        out += list.sequences[prop.indOfSeqWhYNd].title;
+        if (!list.sequences[prop.indOfSeqWhYNd].titles.empty()){
+            for (auto s: list.sequences[prop.indOfSeqWhYNd].titles){
                 out += s;
             }
         }
-        out += "ORIGIN\n";
-        out += "\n\n";
+        out += "\nORIGIN\n";
+        out += spaceWalker(1);
+        for (int i = 0; i < list.sequences[prop.indOfSeqWhYNd].sequence.size(); ++i) {
+            if ((i % 10) == 0) { out += " "; }
+            if ((i % 60) == 0) {
+                out += spaceWalker(i + 1);
+            }
+            out += _tolower(list.sequences[prop.indOfSeqWhYNd].sequence[i]);
+        }
+        out += "\n//\n\n";
     }
 
     return out;

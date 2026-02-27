@@ -1,0 +1,11 @@
+#=SQ test1  -1.0000 - - 0..0::0 -
+#=SQ test2  -1.0000 - - 0..0::0 -
+#=SQ test3  -1.0000 - - 0..0::0 -
+
+test1  ATGAGTCTCTCTGATAAGGACAAGGCTGCTGTGAAAGCCCTATGG-----
+test2  ------CTGTCTCCTGCCGACAAGACCAACGTCAAGGCCGCCTGGGGTAA
+test3  -------------------ACAAAAGCAACATCAAGGCTGCCTGGGGGAA
+
+test1  --------------
+test2  G-------------
+test3  GATTGGTGGCCATG

@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "sourceFiles",
+					"jsonFile" : "directory-sourceFiles-Debug-bc04578067db5b1c2835.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sourceFiles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "projectFMQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MainLib::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-MainLib-Debug-10734c398bb20f91cb62.json",
+					"name" : "MainLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MainLib_autogen::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-MainLib_autogen-Debug-4332b47f2a1264e9d33f.json",
+					"name" : "MainLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MainLib_autogen_timestamp_deps::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-MainLib_autogen_timestamp_deps-Debug-aca0ba23f59adc1d70ce.json",
+					"name" : "MainLib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectFMQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectFMQT-Debug-3d6a67be483bc9d5d7b0.json",
+					"name" : "projectFMQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectFMQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectFMQT_autogen-Debug-ed6a52495023bf535171.json",
+					"name" : "projectFMQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectFMQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectFMQT_autogen_timestamp_deps-Debug-d77cc486aa28e6521307.json",
+					"name" : "projectFMQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sourceFiles::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-sourceFiles-Debug-4f640cebc8cc82392d1a.json",
+					"name" : "sourceFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sourceFiles_autogen::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-sourceFiles_autogen-Debug-e2923d26c918ed5af12a.json",
+					"name" : "sourceFiles_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sourceFiles_autogen_timestamp_deps::@190d3a74e649bf41dbe1",
+					"jsonFile" : "target-sourceFiles_autogen_timestamp_deps-Debug-122dce7ad1c306f52b05.json",
+					"name" : "sourceFiles_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/prolectFMQT/cmake-build-debug",
+		"source" : "C:/prolectFMQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

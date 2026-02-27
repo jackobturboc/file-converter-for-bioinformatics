@@ -1,0 +1,18 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 64  Type: P  November 02, 2025 20:58  Check: 4147  ..
+
+ Name: test1  Len:     64  Check: 5355  Weight: -1.00
+ Name: test2  Len:     64  Check: 8817  Weight: -1.00
+ Name: test3  Len:     64  Check: 9975  Weight: -1.00
+
+//
+
+       1                                                   50
+test1  ATGAGTCTCT CTGATAAGGA CAAGGCTGCT GTGAAAGCCC TATGG~~~~~
+test2  ~~~~~~CTGT CTCCTGCCGA CAAGACCAAC GTCAAGGCCG CCTGGGGTAA
+test3  ~~~~~~~~~~ ~~~~~~~~~A CAAAAGCAAC ATCAAGGCTG CCTGGGGGAA
+
+       51           64
+test1  ~~~~~~~~~~ ~~~~
+test2  G~~~~~~~~~ ~~~~
+test3  GATTGGTGGC CATG

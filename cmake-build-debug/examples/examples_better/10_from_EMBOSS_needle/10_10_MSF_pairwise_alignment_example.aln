@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  stdout MSF: 59 Type: N 02/11/25 CompCheck: 5132 ..
+
+  Name: test1      Len: 59  Check: 9465 Weight: 1.00
+  Name: test2      Len: 59  Check: 5667 Weight: 1.00
+
+//
+
+           1                                               50
+test1      ATGAGTCTCTCT......GATAAG......GACAAGGCTGC..TGTGAAA
+test2      ~~~~~~CTGTCTCCTGCCGACAAGACCAACGTCAAGGCCGCCTGGGGTAA
+
+           51     59
+test1      GCCCTATGG
+test2      G~~~~~~~~
+
