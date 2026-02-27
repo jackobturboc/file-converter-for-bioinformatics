@@ -53,11 +53,11 @@ std::string SequenceWriter::writer(const std::string& format, SequencesBox sList
                 out += s;
             }
         }
-        out += "\nORIGIN\n";
-        out += spaceWalker(1);
+        out += "\nORIGIN";
         for (int i = 0; i < list.sequences[prop.indOfSeqWhYNd].sequence.size(); ++i) {
             if ((i % 10) == 0) { out += " "; }
             if ((i % 60) == 0) {
+                out += "\n";
                 out += spaceWalker(i + 1);
             }
             out += _tolower(list.sequences[prop.indOfSeqWhYNd].sequence[i]);

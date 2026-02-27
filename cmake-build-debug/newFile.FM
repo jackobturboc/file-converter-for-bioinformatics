@@ -1,10 +1,20 @@
 LOCUS       AB067757.2 Bursaphelenchus conicaudatus genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, partial and complete sequence
 ORIGIN
-1     caatacatg catcaagcct tggccttcgg gttagggtgc aattattgga gcaaaaccag tctcgtactg tttgctaact caggataatt ctgcatatcg catggtcttg taccggcgaa gtttctttca agtatctgct ttatcaacta tcgttggtag tttattggtc taccatggtg ttgacgggta acggagaatc agggtttgac tccggagagg gagccttaga aacggctacc atgtctaagg atagcagcag gcgcgaaaat tacccaatat c
+ 
+1     caatacatgc atcaagcctt ggccttcggg ttagggtgca attattggag caaaaccagt 
+61    ctcgtactgt ttgctaactc aggataattc tgcatatcgc atggtcttgt accggcgaag 
+121    tttctttcaa gtatctgctt tatcaactat cgttggtagt ttattggtct accatggtgt 
+181    tgacgggtaa cggagaatca gggtttgact ccggagaggg agccttagaa acggctacca 
+241    tgtctaagga tagcagcagg cgcgaaaatt acccaatatc
 //
 
 LOCUS       AB067757.2 Bursaphelenchus conicaudatus genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, partial and complete sequence
 ORIGIN
-1     caatacatg catcaagcct tggccttcgg gttagggtgc aattattgga gcaaaaccag tctcgtactg tttgctaact caggataatt ctgcatatcg catggtcttg taccggcgaa gtttctttca agtatctgct ttatcaacta tcgttggtag tttattggtc taccatggtg ttgacgggta acggagaatc agggtttgac tccggagagg gagccttaga aacggctacc atgtctaagg atagcagcag gcgcgaaaat tacccaatat c
+ 
+1     caatacatgc atcaagcctt ggccttcggg ttagggtgca attattggag caaaaccagt 
+61    ctcgtactgt ttgctaactc aggataattc tgcatatcgc atggtcttgt accggcgaag 
+121    tttctttcaa gtatctgctt tatcaactat cgttggtagt ttattggtct accatggtgt 
+181    tgacgggtaa cggagaatca gggtttgact ccggagaggg agccttagaa acggctacca 
+241    tgtctaagga tagcagcagg cgcgaaaatt acccaatatc
 //
 

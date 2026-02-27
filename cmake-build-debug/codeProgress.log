@@ -4063,3 +4063,81 @@ RUN: update properties finish
 
 RUN: file get finish
 
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
+RUN: Start file saving 
+
+RUN: writing start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: writing finish
+
+RUN: Finish file is saved 
+
+Code was started
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get start
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: detector start
+
+RUN: detector finish
+
+RUN: update properties start
+
+RUN: update properties finish
+
+RUN: file get finish
+
