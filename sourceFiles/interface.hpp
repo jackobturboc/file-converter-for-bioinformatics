@@ -5,7 +5,7 @@
 #ifndef PROJECTFM_INTERFACE_HPP
 #define PROJECTFM_INTERFACE_HPP
 
-#include "global_const.hpp"
+#include "globalConsts.hpp"
 #include "sequences_files_format_descriptions.h"
 #include "manager.hpp"
 

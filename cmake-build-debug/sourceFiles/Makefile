@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prolectFMQT
+CMAKE_SOURCE_DIR = C:\prolectFMQTC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\prolectFMQT\cmake-build-debug
+CMAKE_BINARY_DIR = C:\prolectFMQTC\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,14 +86,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\prolectFMQT\cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start C:\prolectFMQT\cmake-build-debug\CMakeFiles C:\prolectFMQT\cmake-build-debug\sourceFiles\\CMakeFiles\progress.marks
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\prolectFMQT\cmake-build-debug\CMakeFiles 0
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start C:\prolectFMQTC\cmake-build-debug\CMakeFiles C:\prolectFMQTC\cmake-build-debug\sourceFiles\\CMakeFiles\progress.marks
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\prolectFMQTC\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/clean
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/clean
 .PHONY : clean
 
 # The main clean target
@@ -102,36 +102,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/preinstall
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/preinstall
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
-sourceFiles/CMakeFiles/sourceFiles.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/sourceFiles.dir/rule
-.PHONY : sourceFiles/CMakeFiles/sourceFiles.dir/rule
-
-# Convenience name for target.
-sourceFiles: sourceFiles/CMakeFiles/sourceFiles.dir/rule
-.PHONY : sourceFiles
-
-# fast build rule for target.
-sourceFiles/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/build
-.PHONY : sourceFiles/fast
-
-# Convenience name for target.
 sourceFiles/CMakeFiles/MainLib.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib.dir/rule
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib.dir/rule
 .PHONY : sourceFiles/CMakeFiles/MainLib.dir/rule
 
 # Convenience name for target.
@@ -140,40 +126,12 @@ MainLib: sourceFiles/CMakeFiles/MainLib.dir/rule
 
 # fast build rule for target.
 MainLib/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/build
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/build
 .PHONY : MainLib/fast
 
 # Convenience name for target.
-sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/rule
-.PHONY : sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/rule
-
-# Convenience name for target.
-sourceFiles_autogen_timestamp_deps: sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/rule
-.PHONY : sourceFiles_autogen_timestamp_deps
-
-# fast build rule for target.
-sourceFiles_autogen_timestamp_deps/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\build.make sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/build
-.PHONY : sourceFiles_autogen_timestamp_deps/fast
-
-# Convenience name for target.
-sourceFiles/CMakeFiles/sourceFiles_autogen.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/sourceFiles_autogen.dir/rule
-.PHONY : sourceFiles/CMakeFiles/sourceFiles_autogen.dir/rule
-
-# Convenience name for target.
-sourceFiles_autogen: sourceFiles/CMakeFiles/sourceFiles_autogen.dir/rule
-.PHONY : sourceFiles_autogen
-
-# fast build rule for target.
-sourceFiles_autogen/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles_autogen.dir\build.make sourceFiles/CMakeFiles/sourceFiles_autogen.dir/build
-.PHONY : sourceFiles_autogen/fast
-
-# Convenience name for target.
 sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/rule
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/rule
 .PHONY : sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
@@ -182,12 +140,12 @@ MainLib_autogen_timestamp_deps: sourceFiles/CMakeFiles/MainLib_autogen_timestamp
 
 # fast build rule for target.
 MainLib_autogen_timestamp_deps/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen_timestamp_deps.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/build
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen_timestamp_deps.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/build
 .PHONY : MainLib_autogen_timestamp_deps/fast
 
 # Convenience name for target.
 sourceFiles/CMakeFiles/MainLib_autogen.dir/rule:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib_autogen.dir/rule
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sourceFiles/CMakeFiles/MainLib_autogen.dir/rule
 .PHONY : sourceFiles/CMakeFiles/MainLib_autogen.dir/rule
 
 # Convenience name for target.
@@ -196,7 +154,7 @@ MainLib_autogen: sourceFiles/CMakeFiles/MainLib_autogen.dir/rule
 
 # fast build rule for target.
 MainLib_autogen/fast:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen.dir/build
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib_autogen.dir\build.make sourceFiles/CMakeFiles/MainLib_autogen.dir/build
 .PHONY : MainLib_autogen/fast
 
 MainLib_autogen/mocs_compilation.obj: MainLib_autogen/mocs_compilation.cpp.obj
@@ -204,7 +162,7 @@ MainLib_autogen/mocs_compilation.obj: MainLib_autogen/mocs_compilation.cpp.obj
 
 # target to build an object file
 MainLib_autogen/mocs_compilation.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj
 .PHONY : MainLib_autogen/mocs_compilation.cpp.obj
 
 MainLib_autogen/mocs_compilation.i: MainLib_autogen/mocs_compilation.cpp.i
@@ -212,7 +170,7 @@ MainLib_autogen/mocs_compilation.i: MainLib_autogen/mocs_compilation.cpp.i
 
 # target to preprocess a source file
 MainLib_autogen/mocs_compilation.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.i
 .PHONY : MainLib_autogen/mocs_compilation.cpp.i
 
 MainLib_autogen/mocs_compilation.s: MainLib_autogen/mocs_compilation.cpp.s
@@ -220,7 +178,7 @@ MainLib_autogen/mocs_compilation.s: MainLib_autogen/mocs_compilation.cpp.s
 
 # target to generate assembly for a file
 MainLib_autogen/mocs_compilation.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.s
 .PHONY : MainLib_autogen/mocs_compilation.cpp.s
 
 container.obj: container.cpp.obj
@@ -228,8 +186,7 @@ container.obj: container.cpp.obj
 
 # target to build an object file
 container.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj
 .PHONY : container.cpp.obj
 
 container.i: container.cpp.i
@@ -237,8 +194,7 @@ container.i: container.cpp.i
 
 # target to preprocess a source file
 container.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.i
 .PHONY : container.cpp.i
 
 container.s: container.cpp.s
@@ -246,8 +202,7 @@ container.s: container.cpp.s
 
 # target to generate assembly for a file
 container.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/container.cpp.s
 .PHONY : container.cpp.s
 
 interface.obj: interface.cpp.obj
@@ -255,8 +210,7 @@ interface.obj: interface.cpp.obj
 
 # target to build an object file
 interface.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj
 .PHONY : interface.cpp.obj
 
 interface.i: interface.cpp.i
@@ -264,8 +218,7 @@ interface.i: interface.cpp.i
 
 # target to preprocess a source file
 interface.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.i
 .PHONY : interface.cpp.i
 
 interface.s: interface.cpp.s
@@ -273,8 +226,7 @@ interface.s: interface.cpp.s
 
 # target to generate assembly for a file
 interface.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.s
 .PHONY : interface.cpp.s
 
 manager.obj: manager.cpp.obj
@@ -282,8 +234,7 @@ manager.obj: manager.cpp.obj
 
 # target to build an object file
 manager.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj
 .PHONY : manager.cpp.obj
 
 manager.i: manager.cpp.i
@@ -291,8 +242,7 @@ manager.i: manager.cpp.i
 
 # target to preprocess a source file
 manager.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.i
 .PHONY : manager.cpp.i
 
 manager.s: manager.cpp.s
@@ -300,44 +250,15 @@ manager.s: manager.cpp.s
 
 # target to generate assembly for a file
 manager.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.s
 .PHONY : manager.cpp.s
-
-qtgeneralwindows.obj: qtgeneralwindows.cpp.obj
-.PHONY : qtgeneralwindows.obj
-
-# target to build an object file
-qtgeneralwindows.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj
-.PHONY : qtgeneralwindows.cpp.obj
-
-qtgeneralwindows.i: qtgeneralwindows.cpp.i
-.PHONY : qtgeneralwindows.i
-
-# target to preprocess a source file
-qtgeneralwindows.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.i
-.PHONY : qtgeneralwindows.cpp.i
-
-qtgeneralwindows.s: qtgeneralwindows.cpp.s
-.PHONY : qtgeneralwindows.s
-
-# target to generate assembly for a file
-qtgeneralwindows.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.s
-.PHONY : qtgeneralwindows.cpp.s
 
 reader.obj: reader.cpp.obj
 .PHONY : reader.obj
 
 # target to build an object file
 reader.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj
 .PHONY : reader.cpp.obj
 
 reader.i: reader.cpp.i
@@ -345,8 +266,7 @@ reader.i: reader.cpp.i
 
 # target to preprocess a source file
 reader.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.i
 .PHONY : reader.cpp.i
 
 reader.s: reader.cpp.s
@@ -354,8 +274,7 @@ reader.s: reader.cpp.s
 
 # target to generate assembly for a file
 reader.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.s
 .PHONY : reader.cpp.s
 
 sequences_files_format_descriptions.obj: sequences_files_format_descriptions.cpp.obj
@@ -363,8 +282,7 @@ sequences_files_format_descriptions.obj: sequences_files_format_descriptions.cpp
 
 # target to build an object file
 sequences_files_format_descriptions.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj
 .PHONY : sequences_files_format_descriptions.cpp.obj
 
 sequences_files_format_descriptions.i: sequences_files_format_descriptions.cpp.i
@@ -372,8 +290,7 @@ sequences_files_format_descriptions.i: sequences_files_format_descriptions.cpp.i
 
 # target to preprocess a source file
 sequences_files_format_descriptions.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.i
 .PHONY : sequences_files_format_descriptions.cpp.i
 
 sequences_files_format_descriptions.s: sequences_files_format_descriptions.cpp.s
@@ -381,41 +298,15 @@ sequences_files_format_descriptions.s: sequences_files_format_descriptions.cpp.s
 
 # target to generate assembly for a file
 sequences_files_format_descriptions.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.s
 .PHONY : sequences_files_format_descriptions.cpp.s
-
-sourceFiles_autogen/mocs_compilation.obj: sourceFiles_autogen/mocs_compilation.cpp.obj
-.PHONY : sourceFiles_autogen/mocs_compilation.obj
-
-# target to build an object file
-sourceFiles_autogen/mocs_compilation.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj
-.PHONY : sourceFiles_autogen/mocs_compilation.cpp.obj
-
-sourceFiles_autogen/mocs_compilation.i: sourceFiles_autogen/mocs_compilation.cpp.i
-.PHONY : sourceFiles_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-sourceFiles_autogen/mocs_compilation.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.i
-.PHONY : sourceFiles_autogen/mocs_compilation.cpp.i
-
-sourceFiles_autogen/mocs_compilation.s: sourceFiles_autogen/mocs_compilation.cpp.s
-.PHONY : sourceFiles_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-sourceFiles_autogen/mocs_compilation.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.s
-.PHONY : sourceFiles_autogen/mocs_compilation.cpp.s
 
 writer.obj: writer.cpp.obj
 .PHONY : writer.obj
 
 # target to build an object file
 writer.cpp.obj:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj
 .PHONY : writer.cpp.obj
 
 writer.i: writer.cpp.i
@@ -423,8 +314,7 @@ writer.i: writer.cpp.i
 
 # target to preprocess a source file
 writer.cpp.i:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.i
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.i
 .PHONY : writer.cpp.i
 
 writer.s: writer.cpp.s
@@ -432,8 +322,7 @@ writer.s: writer.cpp.s
 
 # target to generate assembly for a file
 writer.cpp.s:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\sourceFiles.dir\build.make sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.s
-	cd /d C:\prolectFMQT\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(MAKE) $(MAKESILENT) -f sourceFiles\CMakeFiles\MainLib.dir\build.make sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.s
 .PHONY : writer.cpp.s
 
 # Help Target
@@ -446,10 +335,7 @@ help:
 	@echo ... rebuild_cache
 	@echo ... MainLib_autogen
 	@echo ... MainLib_autogen_timestamp_deps
-	@echo ... sourceFiles_autogen
-	@echo ... sourceFiles_autogen_timestamp_deps
 	@echo ... MainLib
-	@echo ... sourceFiles
 	@echo ... MainLib_autogen/mocs_compilation.obj
 	@echo ... MainLib_autogen/mocs_compilation.i
 	@echo ... MainLib_autogen/mocs_compilation.s
@@ -462,18 +348,12 @@ help:
 	@echo ... manager.obj
 	@echo ... manager.i
 	@echo ... manager.s
-	@echo ... qtgeneralwindows.obj
-	@echo ... qtgeneralwindows.i
-	@echo ... qtgeneralwindows.s
 	@echo ... reader.obj
 	@echo ... reader.i
 	@echo ... reader.s
 	@echo ... sequences_files_format_descriptions.obj
 	@echo ... sequences_files_format_descriptions.i
 	@echo ... sequences_files_format_descriptions.s
-	@echo ... sourceFiles_autogen/mocs_compilation.obj
-	@echo ... sourceFiles_autogen/mocs_compilation.i
-	@echo ... sourceFiles_autogen/mocs_compilation.s
 	@echo ... writer.obj
 	@echo ... writer.i
 	@echo ... writer.s
@@ -488,6 +368,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\prolectFMQT\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\prolectFMQTC\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,24 +1,14 @@
-add_library(sourceFiles
-        qtgeneralwindows.cpp
-        manager.cpp
-        sequences_files_format_descriptions.cpp
-        interface.cpp
-        container.cpp
-        reader.cpp
-        writer.cpp
-)
 
-add_library(MainLib
-        qtgeneralwindows.cpp
-        manager.cpp
-        sequences_files_format_descriptions.cpp
-        interface.cpp
-        container.cpp
-        reader.cpp
-        #        widget.cpp
-        writer.cpp
-)
+# Находим все файлы в подпапке
+file(GLOB LIB_SOURCES "*.cpp")
 
-target_link_libraries(sourceFiles
+# Создаем объектную библиотеку
+add_library(MainLib OBJECT ${LIB_SOURCES})
+
+target_link_libraries(MainLib
+        PUBLIC
+        Qt5::Core
+        Qt5::Gui
         Qt5::Widgets
+  #      Qt5::WebSockets
 )

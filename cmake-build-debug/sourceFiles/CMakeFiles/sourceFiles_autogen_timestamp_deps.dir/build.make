@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prolectFMQT
+CMAKE_SOURCE_DIR = C:\prolectFMQTC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\prolectFMQT\cmake-build-debug
+CMAKE_BINARY_DIR = C:\prolectFMQTC\cmake-build-debug
 
 # Utility rule file for sourceFiles_autogen_timestamp_deps.
 
@@ -73,10 +73,10 @@ sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/build: sourceFiles
 .PHONY : sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/build
 
 sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/clean:
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\cmake_clean.cmake
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\cmake_clean.cmake
 .PHONY : sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/clean
 
 sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQT C:\prolectFMQT\sourceFiles C:\prolectFMQT\cmake-build-debug C:\prolectFMQT\cmake-build-debug\sourceFiles C:\prolectFMQT\cmake-build-debug\sourceFiles\CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQTC C:\prolectFMQTC\sourceFiles C:\prolectFMQTC\cmake-build-debug C:\prolectFMQTC\cmake-build-debug\sourceFiles C:\prolectFMQTC\cmake-build-debug\sourceFiles\CMakeFiles\sourceFiles_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/depend
 

@@ -8,14 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/mocs_compilation.cpp" "sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/container.cpp" "sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/interface.cpp" "sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/manager.cpp" "sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp" "sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/reader.cpp" "sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.cpp" "sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/writer.cpp" "sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj.d"
+  "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/mocs_compilation.cpp" "sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/MainLib_autogen/mocs_compilation.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/container.cpp" "sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/container.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/interface.cpp" "sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/interface.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/manager.cpp" "sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/manager.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/reader.cpp" "sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/reader.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/sequences_files_format_descriptions.cpp" "sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj.d"
+  "C:/prolectFMQTC/sourceFiles/writer.cpp" "sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj" "gcc" "sourceFiles/CMakeFiles/MainLib.dir/writer.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

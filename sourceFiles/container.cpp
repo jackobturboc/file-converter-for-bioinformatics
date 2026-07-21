@@ -1,5 +1,7 @@
 #include "container.hpp"
 
+//гыгыгы
+
 std::string SequencesBox::show(bool tit, bool seq, bool com, bool qua, bool isOut){ //debug only
     std::string s;
     int n = 0;

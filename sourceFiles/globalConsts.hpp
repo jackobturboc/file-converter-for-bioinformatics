@@ -8,14 +8,6 @@
 #include <regex>
 #include <cstdlib>
 #include <map>
-#include <QObject>
-#include <QPushButton>
-#include <QComboBox>
-#include <QLineEdit>
-#include <QGridLayout>
-#include <QVBoxLayout>
-#include <QPlainTextEdit>
-#include <QFileDialog>
 #include <iostream>
 #include <math.h>
 
@@ -28,7 +20,7 @@ struct Properties{
     std::string outFileTy = "FASTA_general";  // type of inp file
     std::string pathToOut = "newFile.FM";  // path to output file
     std::string outFileName = "newFile.FM";  // name of output file
-    std::string pathToInp = "nothing";  // path to input file
+    std::string pathToInp = "nothing";  // path to input files
     int lenghtOfLine = 80; // lenght of line in output file
     std::string redactTitles = "SH"; // if SH keep
     void log(std::string text){

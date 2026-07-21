@@ -6,5 +6,5 @@ CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
 
 CXX_INCLUDES = @CMakeFiles/sourceFiles.dir/includes_CXX.rsp
 
-CXX_FLAGS = -fPIC -Wall  -Wextra -pedantic -static-libgcc -static-libstdc++ -g -std=gnu++11 -fdiagnostics-color=always
+CXX_FLAGS = -fPIC -Wall -Wextra -pedantic -static-libgcc -static-libstdc++ -g -std=gnu++11 -fdiagnostics-color=always
 

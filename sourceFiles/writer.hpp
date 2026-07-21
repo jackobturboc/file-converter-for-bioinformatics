@@ -7,7 +7,7 @@
 #ifndef PROJECTFM_WRITER_HPP
 #define PROJECTFM_WRITER_HPP
 
-#include "global_const.hpp"
+#include "globalConsts.hpp"
 #include "container.hpp"
 
 struct SequenceWriter{

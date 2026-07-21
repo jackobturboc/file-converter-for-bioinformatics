@@ -6,7 +6,7 @@
 #define PROJECTFM_MANAGER_HPP
 
 #include "sequences_files_format_descriptions.h"
-#include "global_const.hpp"
+#include "globalConsts.hpp"
 #include "container.hpp"
 #include "reader.hpp"
 #include "writer.hpp"

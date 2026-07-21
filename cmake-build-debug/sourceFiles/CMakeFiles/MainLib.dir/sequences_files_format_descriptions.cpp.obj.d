@@ -1,6 +1,6 @@
 sourceFiles/CMakeFiles/MainLib.dir/sequences_files_format_descriptions.cpp.obj: \
- C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.cpp \
- C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.h \
+ C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.cpp \
+ C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

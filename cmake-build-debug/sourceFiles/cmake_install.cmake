@@ -1,4 +1,4 @@
-# Install script for directory: C:/prolectFMQT/sourceFiles
+# Install script for directory: C:/prolectFMQTC/sourceFiles
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

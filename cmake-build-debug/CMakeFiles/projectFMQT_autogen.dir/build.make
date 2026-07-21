@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prolectFMQT
+CMAKE_SOURCE_DIR = C:\prolectFMQTC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\prolectFMQT\cmake-build-debug
+CMAKE_BINARY_DIR = C:\prolectFMQTC\cmake-build-debug
 
 # Utility rule file for projectFMQT_autogen.
 
@@ -70,9 +70,9 @@ CMakeFiles/projectFMQT_autogen: projectFMQT_autogen/timestamp
 projectFMQT_autogen/timestamp: C:/Qt/5.15.2/mingw81_64/bin/moc.exe
 projectFMQT_autogen/timestamp: C:/Qt/5.15.2/mingw81_64/bin/uic.exe
 projectFMQT_autogen/timestamp: CMakeFiles/projectFMQT_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target projectFMQT"
-	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autogen C:/prolectFMQT/cmake-build-debug/CMakeFiles/projectFMQT_autogen.dir/AutogenInfo.json Debug
-	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target projectFMQT"
+	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autogen C:/prolectFMQTC/cmake-build-debug/CMakeFiles/projectFMQT_autogen.dir/AutogenInfo.json Debug
+	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/prolectFMQTC/cmake-build-debug/projectFMQT_autogen/timestamp
 
 projectFMQT_autogen: CMakeFiles/projectFMQT_autogen
 projectFMQT_autogen: projectFMQT_autogen/timestamp
@@ -88,6 +88,6 @@ CMakeFiles/projectFMQT_autogen.dir/clean:
 .PHONY : CMakeFiles/projectFMQT_autogen.dir/clean
 
 CMakeFiles/projectFMQT_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQT C:\prolectFMQT C:\prolectFMQT\cmake-build-debug C:\prolectFMQT\cmake-build-debug C:\prolectFMQT\cmake-build-debug\CMakeFiles\projectFMQT_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQTC C:\prolectFMQTC C:\prolectFMQTC\cmake-build-debug C:\prolectFMQTC\cmake-build-debug C:\prolectFMQTC\cmake-build-debug\CMakeFiles\projectFMQT_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/projectFMQT_autogen.dir/depend
 

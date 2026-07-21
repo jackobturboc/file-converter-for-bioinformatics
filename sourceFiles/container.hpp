@@ -6,7 +6,7 @@
 #define PROJECTFM_CONTAINER_HPP
 
 #include "sequences_files_format_descriptions.h"
-#include "global_const.hpp"
+#include "globalConsts.hpp"
 
 struct SequenceItem{
     void clear(){

@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/prolectFMQT/main.cpp" "CMakeFiles/projectFMQT.dir/main.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/main.cpp.obj.d"
-  "C:/prolectFMQT/cmake-build-debug/projectFMQT_autogen/mocs_compilation.cpp" "CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj.d"
-  "C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp" "CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/sourceFiles/qtgeneralwindows.cpp.obj.d"
+  "C:/prolectFMQTC/QTSourceFiles/qtgeneralwindows.cpp" "CMakeFiles/projectFMQT.dir/QTSourceFiles/qtgeneralwindows.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/QTSourceFiles/qtgeneralwindows.cpp.obj.d"
+  "C:/prolectFMQTC/main.cpp" "CMakeFiles/projectFMQT.dir/main.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/main.cpp.obj.d"
+  "C:/prolectFMQTC/cmake-build-debug/projectFMQT_autogen/mocs_compilation.cpp" "CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/projectFMQT.dir/projectFMQT_autogen/mocs_compilation.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,4 +1,4 @@
-# Install script for directory: C:/prolectFMQT
+# Install script for directory: C:/prolectFMQTC
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/prolectFMQT/cmake-build-debug/sourceFiles/cmake_install.cmake")
+  include("C:/prolectFMQTC/cmake-build-debug/sourceFiles/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/prolectFMQTC/cmake-build-debug/QTSourceFiles/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/prolectFMQT/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/prolectFMQTC/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

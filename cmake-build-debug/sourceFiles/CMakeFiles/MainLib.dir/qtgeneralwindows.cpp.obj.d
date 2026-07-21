@@ -1,8 +1,8 @@
 sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj: \
- C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp \
- C:\prolectFMQT\sourceFiles\qtgeneralwindows.h \
- C:\prolectFMQT\sourceFiles\manager.hpp \
- C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.h \
+ C:\prolectFMQTC\sourceFiles\qtgeneralwindows.cpp \
+ C:\prolectFMQTC\sourceFiles\qtgeneralwindows.h \
+ C:\prolectFMQTC\sourceFiles\manager.hpp \
+ C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -102,7 +102,7 @@ sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
- C:\prolectFMQT\sourceFiles\global_const.hpp \
+ C:\prolectFMQTC\sourceFiles\global_const.hpp \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
@@ -375,6 +375,65 @@ sourceFiles/CMakeFiles/MainLib.dir/qtgeneralwindows.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
- C:\prolectFMQT\sourceFiles\container.hpp \
- C:\prolectFMQT\sourceFiles\reader.hpp \
- C:\prolectFMQT\sourceFiles\writer.hpp
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/QWebSocketServer \
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/qwebsocketserver.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/qwebsockets_global.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/qwebsocketprotocol.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QString \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qstring.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QHostAddress \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qhostaddress.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qtnetworkglobal.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qtnetwork-config.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qabstractsocket.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qdebug.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qtextstream.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qcontiguouscache.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QSslConfiguration \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qsslconfiguration.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qsslsocket.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qtcpsocket.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qsslerror.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qsslcertificate.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qcryptographichash.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qdatetime.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qssl.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QFlags \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qflags.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QSslError \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qsslerror.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/QWebSocket \
+ C:/Qt/5.15.2/mingw81_64/include/QtWebSockets/qwebsocket.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QUrl \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qurl.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QAbstractSocket \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qabstractsocket.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QNetworkRequest \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qnetworkrequest.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QSharedDataPointer \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qshareddata.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QVariant \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qvariant.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/QNetworkProxy \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qnetworkproxy.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qhostaddress.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtNetwork/qnetworkrequest.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QJsonDocument \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qjsondocument.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qjsonvalue.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qcborvalue.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qcborcommon.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/quuid.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QJsonObject \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qjsonobject.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/QMouseEvent \
+ C:/Qt/5.15.2/mingw81_64/include/QtGui/qevent.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QDebug \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qdebug.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QUrl \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QPointer \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qpointer.h \
+ C:\prolectFMQTC\sourceFiles\container.hpp \
+ C:\prolectFMQTC\sourceFiles\reader.hpp \
+ C:\prolectFMQTC\sourceFiles\writer.hpp

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prolectFMQT
+CMAKE_SOURCE_DIR = C:\prolectFMQTC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\prolectFMQT\cmake-build-debug
+CMAKE_BINARY_DIR = C:\prolectFMQTC\cmake-build-debug
 
 # Utility rule file for MainLib_autogen.
 
@@ -70,9 +70,9 @@ sourceFiles/CMakeFiles/MainLib_autogen: sourceFiles/MainLib_autogen/timestamp
 sourceFiles/MainLib_autogen/timestamp: C:/Qt/5.15.2/mingw81_64/bin/moc.exe
 sourceFiles/MainLib_autogen/timestamp: C:/Qt/5.15.2/mingw81_64/bin/uic.exe
 sourceFiles/MainLib_autogen/timestamp: sourceFiles/CMakeFiles/MainLib_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MainLib"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autogen C:/prolectFMQT/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/AutogenInfo.json Debug
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MainLib"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autogen C:/prolectFMQTC/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/AutogenInfo.json Debug
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/timestamp
 
 MainLib_autogen: sourceFiles/CMakeFiles/MainLib_autogen
 MainLib_autogen: sourceFiles/MainLib_autogen/timestamp
@@ -84,10 +84,10 @@ sourceFiles/CMakeFiles/MainLib_autogen.dir/build: MainLib_autogen
 .PHONY : sourceFiles/CMakeFiles/MainLib_autogen.dir/build
 
 sourceFiles/CMakeFiles/MainLib_autogen.dir/clean:
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\MainLib_autogen.dir\cmake_clean.cmake
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\MainLib_autogen.dir\cmake_clean.cmake
 .PHONY : sourceFiles/CMakeFiles/MainLib_autogen.dir/clean
 
 sourceFiles/CMakeFiles/MainLib_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQT C:\prolectFMQT\sourceFiles C:\prolectFMQT\cmake-build-debug C:\prolectFMQT\cmake-build-debug\sourceFiles C:\prolectFMQT\cmake-build-debug\sourceFiles\CMakeFiles\MainLib_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQTC C:\prolectFMQTC\sourceFiles C:\prolectFMQTC\cmake-build-debug C:\prolectFMQTC\cmake-build-debug\sourceFiles C:\prolectFMQTC\cmake-build-debug\sourceFiles\CMakeFiles\MainLib_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : sourceFiles/CMakeFiles/MainLib_autogen.dir/depend
 

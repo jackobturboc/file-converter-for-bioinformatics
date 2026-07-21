@@ -1,64 +1,58 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen",
-	"CMAKE_BINARY_DIR" : "C:/prolectFMQT/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/prolectFMQT/cmake-build-debug/sourceFiles",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/prolectFMQT/sourceFiles",
+	"BUILD_DIR" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen",
+	"CMAKE_BINARY_DIR" : "C:/prolectFMQTC/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/prolectFMQTC/sourceFiles",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/bin/cmake.exe",
-	"CMAKE_LIST_FILES" : [ "C:/prolectFMQT/sourceFiles/CMakeLists.txt" ],
-	"CMAKE_SOURCE_DIR" : "C:/prolectFMQT",
+	"CMAKE_LIST_FILES" : [ "C:/prolectFMQTC/sourceFiles/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "C:/prolectFMQTC",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/deps",
+	"DEP_FILE" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "MainLib_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/prolectFMQT/sourceFiles/container.hpp",
+			"C:/prolectFMQTC/sourceFiles/container.hpp",
 			"MU",
 			"EWIEGA46WW/moc_container.cpp",
 			null
 		],
 		[
-			"C:/prolectFMQT/sourceFiles/interface.hpp",
+			"C:/prolectFMQTC/sourceFiles/interface.hpp",
 			"MU",
 			"EWIEGA46WW/moc_interface.cpp",
 			null
 		],
 		[
-			"C:/prolectFMQT/sourceFiles/manager.hpp",
+			"C:/prolectFMQTC/sourceFiles/manager.hpp",
 			"MU",
 			"EWIEGA46WW/moc_manager.cpp",
 			null
 		],
 		[
-			"C:/prolectFMQT/sourceFiles/qtgeneralwindows.h",
-			"MU",
-			"EWIEGA46WW/moc_qtgeneralwindows.cpp",
-			null
-		],
-		[
-			"C:/prolectFMQT/sourceFiles/reader.hpp",
+			"C:/prolectFMQTC/sourceFiles/reader.hpp",
 			"MU",
 			"EWIEGA46WW/moc_reader.cpp",
 			null
 		],
 		[
-			"C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.h",
+			"C:/prolectFMQTC/sourceFiles/sequences_files_format_descriptions.h",
 			"MU",
 			"EWIEGA46WW/moc_sequences_files_format_descriptions.cpp",
 			null
 		],
 		[
-			"C:/prolectFMQT/sourceFiles/writer.hpp",
+			"C:/prolectFMQTC/sourceFiles/writer.hpp",
 			"MU",
 			"EWIEGA46WW/moc_writer.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [],
+	"INCLUDE_DIR" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -68,13 +62,14 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"C:/prolectFMQTC/sourceFiles",
+		"C:/prolectFMQTC/QTSourceFiles",
 		"C:/Qt/5.15.2/mingw81_64/include",
-		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
-		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
 		"C:/Qt/5.15.2/mingw81_64/include/QtCore",
 		"C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
 		"C:/Qt/5.15.2/mingw81_64/include/QtANGLE",
-		"C:/prolectFMQT/sourceFiles",
+		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
 		"C:/Program Files/JetBrains/CLion 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
 		"C:/Program Files/JetBrains/CLion 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
 		"C:/Program Files/JetBrains/CLion 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
@@ -95,40 +90,33 @@
 		"-c",
 		"C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/MainLib_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/MainLib_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
-	"MOC_SKIP" : 
-	[
-		"C:/prolectFMQT/cmake-build-debug/sourceFiles/sourceFiles_autogen/mocs_compilation.cpp"
-	],
+	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/prolectFMQT/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/prolectFMQTC/cmake-build-debug/sourceFiles/CMakeFiles/MainLib_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "C:/prolectFMQT/sourceFiles/container.cpp", "MU", null ],
-		[ "C:/prolectFMQT/sourceFiles/interface.cpp", "MU", null ],
-		[ "C:/prolectFMQT/sourceFiles/manager.cpp", "MU", null ],
-		[ "C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp", "MU", null ],
-		[ "C:/prolectFMQT/sourceFiles/reader.cpp", "MU", null ],
+		[ "C:/prolectFMQTC/sourceFiles/container.cpp", "MU", null ],
+		[ "C:/prolectFMQTC/sourceFiles/interface.cpp", "MU", null ],
+		[ "C:/prolectFMQTC/sourceFiles/manager.cpp", "MU", null ],
+		[ "C:/prolectFMQTC/sourceFiles/reader.cpp", "MU", null ],
 		[
-			"C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.cpp",
+			"C:/prolectFMQTC/sourceFiles/sequences_files_format_descriptions.cpp",
 			"MU",
 			null
 		],
-		[ "C:/prolectFMQT/sourceFiles/writer.cpp", "MU", null ]
+		[ "C:/prolectFMQTC/sourceFiles/writer.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
-	"UIC_SKIP" : 
-	[
-		"C:/prolectFMQT/cmake-build-debug/sourceFiles/sourceFiles_autogen/mocs_compilation.cpp"
-	],
+	"UIC_SKIP" : [],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0

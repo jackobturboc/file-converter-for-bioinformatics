@@ -59,17 +59,23 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake"
+  "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+  "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake"
+  "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+  "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfig.cmake"
+  "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfigVersion.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
   "C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake"
-  "C:/prolectFMQT/CMakeLists.txt"
+  "C:/prolectFMQTC/CMakeLists.txt"
+  "C:/prolectFMQTC/QTSourceFiles/CMakeLists.txt"
   "CMakeFiles/3.29.6/CMakeCCompiler.cmake"
   "CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.29.6/CMakeRCCompiler.cmake"
   "CMakeFiles/3.29.6/CMakeSystem.cmake"
-  "C:/prolectFMQT/sourceFiles/CMakeLists.txt"
+  "C:/prolectFMQTC/sourceFiles/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -82,9 +88,10 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/projectFMQT_autogen.dir/AutogenInfo.json"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "sourceFiles/CMakeFiles/sourceFiles_autogen.dir/AutogenInfo.json"
   "sourceFiles/CMakeFiles/MainLib_autogen.dir/AutogenInfo.json"
   "sourceFiles/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "QTSourceFiles/CMakeFiles/QTlib_autogen.dir/AutogenInfo.json"
+  "QTSourceFiles/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -92,10 +99,10 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/projectFMQT.dir/DependInfo.cmake"
   "CMakeFiles/projectFMQT_autogen_timestamp_deps.dir/DependInfo.cmake"
   "CMakeFiles/projectFMQT_autogen.dir/DependInfo.cmake"
-  "sourceFiles/CMakeFiles/sourceFiles.dir/DependInfo.cmake"
   "sourceFiles/CMakeFiles/MainLib.dir/DependInfo.cmake"
-  "sourceFiles/CMakeFiles/sourceFiles_autogen_timestamp_deps.dir/DependInfo.cmake"
-  "sourceFiles/CMakeFiles/sourceFiles_autogen.dir/DependInfo.cmake"
   "sourceFiles/CMakeFiles/MainLib_autogen_timestamp_deps.dir/DependInfo.cmake"
   "sourceFiles/CMakeFiles/MainLib_autogen.dir/DependInfo.cmake"
+  "QTSourceFiles/CMakeFiles/QTlib.dir/DependInfo.cmake"
+  "QTSourceFiles/CMakeFiles/QTlib_autogen_timestamp_deps.dir/DependInfo.cmake"
+  "QTSourceFiles/CMakeFiles/QTlib_autogen.dir/DependInfo.cmake"
   )

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prolectFMQT
+CMAKE_SOURCE_DIR = C:\prolectFMQTC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\prolectFMQT\cmake-build-debug
+CMAKE_BINARY_DIR = C:\prolectFMQTC\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include sourceFiles/CMakeFiles/sourceFiles.dir/depend.make
@@ -72,121 +72,121 @@ sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.
 sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
 sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj: sourceFiles/sourceFiles_autogen/mocs_compilation.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.obj -c C:\prolectFMQT\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.obj -c C:\prolectFMQTC\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp > CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp > CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/sourceFiles_autogen/mocs_compilation.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp -o CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\cmake-build-debug\sourceFiles\sourceFiles_autogen\mocs_compilation.cpp -o CMakeFiles\sourceFiles.dir\sourceFiles_autogen\mocs_compilation.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj: C:/prolectFMQT/sourceFiles/qtgeneralwindows.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj: C:/prolectFMQTC/sourceFiles/qtgeneralwindows.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj -MF CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.obj.d -o CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.obj -c C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.obj -MF CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.obj.d -o CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.obj -c C:\prolectFMQTC\sourceFiles\qtgeneralwindows.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp > CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\qtgeneralwindows.cpp > CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/qtgeneralwindows.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\qtgeneralwindows.cpp -o CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\qtgeneralwindows.cpp -o CMakeFiles\sourceFiles.dir\qtgeneralwindows.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj: C:/prolectFMQT/sourceFiles/manager.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj: C:/prolectFMQTC/sourceFiles/manager.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj -MF CMakeFiles\sourceFiles.dir\manager.cpp.obj.d -o CMakeFiles\sourceFiles.dir\manager.cpp.obj -c C:\prolectFMQT\sourceFiles\manager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.obj -MF CMakeFiles\sourceFiles.dir\manager.cpp.obj.d -o CMakeFiles\sourceFiles.dir\manager.cpp.obj -c C:\prolectFMQTC\sourceFiles\manager.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/manager.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\manager.cpp > CMakeFiles\sourceFiles.dir\manager.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\manager.cpp > CMakeFiles\sourceFiles.dir\manager.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/manager.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\manager.cpp -o CMakeFiles\sourceFiles.dir\manager.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\manager.cpp -o CMakeFiles\sourceFiles.dir\manager.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj: C:/prolectFMQT/sourceFiles/sequences_files_format_descriptions.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj: C:/prolectFMQTC/sourceFiles/sequences_files_format_descriptions.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj -MF CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.obj.d -o CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.obj -c C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.obj -MF CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.obj.d -o CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.obj -c C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.cpp > CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.cpp > CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/sequences_files_format_descriptions.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\sequences_files_format_descriptions.cpp -o CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\sequences_files_format_descriptions.cpp -o CMakeFiles\sourceFiles.dir\sequences_files_format_descriptions.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj: C:/prolectFMQT/sourceFiles/interface.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj: C:/prolectFMQTC/sourceFiles/interface.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj -MF CMakeFiles\sourceFiles.dir\interface.cpp.obj.d -o CMakeFiles\sourceFiles.dir\interface.cpp.obj -c C:\prolectFMQT\sourceFiles\interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.obj -MF CMakeFiles\sourceFiles.dir\interface.cpp.obj.d -o CMakeFiles\sourceFiles.dir\interface.cpp.obj -c C:\prolectFMQTC\sourceFiles\interface.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/interface.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\interface.cpp > CMakeFiles\sourceFiles.dir\interface.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\interface.cpp > CMakeFiles\sourceFiles.dir\interface.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/interface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/interface.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\interface.cpp -o CMakeFiles\sourceFiles.dir\interface.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\interface.cpp -o CMakeFiles\sourceFiles.dir\interface.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj: C:/prolectFMQT/sourceFiles/container.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj: C:/prolectFMQTC/sourceFiles/container.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj -MF CMakeFiles\sourceFiles.dir\container.cpp.obj.d -o CMakeFiles\sourceFiles.dir\container.cpp.obj -c C:\prolectFMQT\sourceFiles\container.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.obj -MF CMakeFiles\sourceFiles.dir\container.cpp.obj.d -o CMakeFiles\sourceFiles.dir\container.cpp.obj -c C:\prolectFMQTC\sourceFiles\container.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/container.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\container.cpp > CMakeFiles\sourceFiles.dir\container.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\container.cpp > CMakeFiles\sourceFiles.dir\container.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/container.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/container.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\container.cpp -o CMakeFiles\sourceFiles.dir\container.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\container.cpp -o CMakeFiles\sourceFiles.dir\container.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj: C:/prolectFMQT/sourceFiles/reader.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj: C:/prolectFMQTC/sourceFiles/reader.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj -MF CMakeFiles\sourceFiles.dir\reader.cpp.obj.d -o CMakeFiles\sourceFiles.dir\reader.cpp.obj -c C:\prolectFMQT\sourceFiles\reader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.obj -MF CMakeFiles\sourceFiles.dir\reader.cpp.obj.d -o CMakeFiles\sourceFiles.dir\reader.cpp.obj -c C:\prolectFMQTC\sourceFiles\reader.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/reader.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\reader.cpp > CMakeFiles\sourceFiles.dir\reader.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\reader.cpp > CMakeFiles\sourceFiles.dir\reader.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/reader.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\reader.cpp -o CMakeFiles\sourceFiles.dir\reader.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\reader.cpp -o CMakeFiles\sourceFiles.dir\reader.cpp.s
 
 sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/flags.make
 sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/includes_CXX.rsp
-sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj: C:/prolectFMQT/sourceFiles/writer.cpp
+sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj: C:/prolectFMQTC/sourceFiles/writer.cpp
 sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj: sourceFiles/CMakeFiles/sourceFiles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj -MF CMakeFiles\sourceFiles.dir\writer.cpp.obj.d -o CMakeFiles\sourceFiles.dir\writer.cpp.obj -c C:\prolectFMQT\sourceFiles\writer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj -MF CMakeFiles\sourceFiles.dir\writer.cpp.obj.d -o CMakeFiles\sourceFiles.dir\writer.cpp.obj -c C:\prolectFMQTC\sourceFiles\writer.cpp
 
 sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sourceFiles.dir/writer.cpp.i"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQT\sourceFiles\writer.cpp > CMakeFiles\sourceFiles.dir\writer.cpp.i
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prolectFMQTC\sourceFiles\writer.cpp > CMakeFiles\sourceFiles.dir\writer.cpp.i
 
 sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sourceFiles.dir/writer.cpp.s"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQT\sourceFiles\writer.cpp -o CMakeFiles\sourceFiles.dir\writer.cpp.s
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prolectFMQTC\sourceFiles\writer.cpp -o CMakeFiles\sourceFiles.dir\writer.cpp.s
 
 # Object files for target sourceFiles
 sourceFiles_OBJECTS = \
@@ -212,19 +212,19 @@ sourceFiles/libsourceFiles.a: sourceFiles/CMakeFiles/sourceFiles.dir/reader.cpp.
 sourceFiles/libsourceFiles.a: sourceFiles/CMakeFiles/sourceFiles.dir/writer.cpp.obj
 sourceFiles/libsourceFiles.a: sourceFiles/CMakeFiles/sourceFiles.dir/build.make
 sourceFiles/libsourceFiles.a: sourceFiles/CMakeFiles/sourceFiles.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\prolectFMQT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library libsourceFiles.a"
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles.dir\cmake_clean_target.cmake
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sourceFiles.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\prolectFMQTC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library libsourceFiles.a"
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles.dir\cmake_clean_target.cmake
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sourceFiles.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 sourceFiles/CMakeFiles/sourceFiles.dir/build: sourceFiles/libsourceFiles.a
 .PHONY : sourceFiles/CMakeFiles/sourceFiles.dir/build
 
 sourceFiles/CMakeFiles/sourceFiles.dir/clean:
-	cd /d C:\prolectFMQT\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles.dir\cmake_clean.cmake
+	cd /d C:\prolectFMQTC\cmake-build-debug\sourceFiles && $(CMAKE_COMMAND) -P CMakeFiles\sourceFiles.dir\cmake_clean.cmake
 .PHONY : sourceFiles/CMakeFiles/sourceFiles.dir/clean
 
 sourceFiles/CMakeFiles/sourceFiles.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQT C:\prolectFMQT\sourceFiles C:\prolectFMQT\cmake-build-debug C:\prolectFMQT\cmake-build-debug\sourceFiles C:\prolectFMQT\cmake-build-debug\sourceFiles\CMakeFiles\sourceFiles.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prolectFMQTC C:\prolectFMQTC\sourceFiles C:\prolectFMQTC\cmake-build-debug C:\prolectFMQTC\cmake-build-debug\sourceFiles C:\prolectFMQTC\cmake-build-debug\sourceFiles\CMakeFiles\sourceFiles.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : sourceFiles/CMakeFiles/sourceFiles.dir/depend
 

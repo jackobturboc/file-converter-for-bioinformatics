@@ -264,6 +264,7 @@ bool Manager::run(Properties & p) {
     if (!write()) {
         return 0;
     }
+    return 0;
 }
 
 bool Manager::doProperties() {
@@ -344,6 +345,7 @@ bool Manager::editFiles(std::vector<int> index) {
         editFilesSlave(n);
     }
     properties.log("RUN: delate files finish \n");
+    return true;
 }
 
 bool Manager::editFilesSlave(int idx) {

@@ -4,7 +4,7 @@
 
 #ifndef PROJECTFM_READER_HPP
 
-#include "global_const.hpp"
+#include "globalConsts.hpp"
 #include "container.hpp"
 
 #define PROJECTFM_READER_HPP
